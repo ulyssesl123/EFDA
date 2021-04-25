@@ -38,8 +38,8 @@ get_ipython().system('pip install cvxopt')
 # In[ ]:
 
 
-conda install -c conda-forge cvxpy
-
+#conda install -c conda-forge cvxpy
+get_ipython().system('pip install cvxopt')
 
 # In[ ]:
 
@@ -57,7 +57,7 @@ get_ipython().system('pip install cvxpy')
 
 
 #conda install -c conda-forge glpk
-
+get_ipython().system('pip install glpk')
 
 # In[ ]:
 
