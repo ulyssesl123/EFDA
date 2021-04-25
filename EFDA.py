@@ -56,7 +56,7 @@ get_ipython().system('pip install cvxpy')
 # In[ ]:
 
 
-conda install -c conda-forge glpk
+#conda install -c conda-forge glpk
 
 
 # In[ ]:
